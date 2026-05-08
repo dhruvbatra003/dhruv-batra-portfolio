@@ -96,7 +96,7 @@ export default function Home() {
             </div>
 
             {/* Right: Portrait + stat badge */}
-            <div className="relative hidden lg:block">
+            <div className="relative hidden lg:block h-[75vh] max-h-[700px]">
               {/* Corner decorations */}
               <div className="absolute -top-5 -right-5 w-20 h-20 border-t-4 border-r-4 border-brand-crimson z-20" />
               <div className="absolute -bottom-5 -left-5 w-20 h-20 border-b-4 border-l-4 border-brand-crimson z-20" />
@@ -126,7 +126,7 @@ export default function Home() {
               <img
                 src={c.about.portraitUrl}
                 alt={c.meta.name}
-                className="w-full grayscale contrast-125 object-cover"
+                className="w-full h-full grayscale contrast-125 object-cover object-top"
               />
             </div>
           </div>
