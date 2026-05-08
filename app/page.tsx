@@ -164,7 +164,7 @@ export default function Home() {
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               alt={`${c.meta.name} portrait`}
-              className="w-full grayscale relative z-10"
+              className="w-full h-[600px] object-cover object-[center_15%] grayscale relative z-10"
               src={c.about.portraitUrl}
             />
           </div>
