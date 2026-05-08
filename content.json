@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "title": "Dhruv Batra | Social Media Creator",
+    "name": "Dhruv Batra"
+  },
+  "nav": {
+    "links": ["About", "Insights", "Brands", "Portfolio", "Media Kit"],
+    "activeLink": "Insights",
+    "ctaText": "Let's Create"
+  },
+  "hero": {
+    "tagline": "Social Media Creator & Strategist",
+    "firstName": "Dhruv",
+    "lastName": "Batra",
+    "tags": ["Geopolitics", "Indian Issues", "Tech", "AI"],
+    "totalFollowers": "1.2M+",
+    "ctaText": "Work With Me",
+    "platforms": [
+      { "name": "Instagram", "count": "800K+" },
+      { "name": "YouTube", "count": "250K+" },
+      { "name": "Twitter / X", "count": "150K+" }
+    ]
+  },
+  "brands": [
+    { "name": "Masai", "logo": "/logos/masai.png" },
+    { "name": "Lenskart", "logo": "/logos/lenskart.svg" },
+    { "name": "AI+", "logo": "/logos/aiplus.png" },
+    { "name": "RT India", "logo": "/logos/rt-india.png" },
+    { "name": "Emergent AI", "logo": "/logos/emergent-ai.svg" }
+  ],
+  "about": {
+    "headline": "Decoding the world for",
+    "headlineAccent": "Millennials",
+    "bio": "Dhruv Batra is a leading digital voice in India, bridging the gap between complex geopolitics and the average consumer. With over 1.2M followers, he simplifies tech trends and socio-economic shifts through high-octane storytelling.",
+    "education": {
+      "institution": "IIT Kharagpur",
+      "field": "Engineering & Applied Physics"
+    },
+    "stats": [
+      { "value": "500M+", "label": "Lifetime Views" },
+      { "value": "150+", "label": "Collaborations" }
+    ],
+    "portraitUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuBOsff7Xg6T6epMcWSyWHOP7bqX6xsEcc5pfSt3jjne9EJ5u3uJX5LNvBHjuHrozvovkBRnOvDC_vCtxuXx7cZkxPqjqSwy6IpeYHYb0jBEVP2STTUNEIUOPX0xA4xXW6j4CGeVhHqsuaUPN3xfxy_3bx7HQOEYYrcvBjXPngXHa2UD2MoPSXhgjX2I3sg6yjmJgk0GKjYcXOD7vZXwAaIK2_RLDIlALYGtxa2iNejZ41uFz9iU51LqfX06-9tppvRU9jbZZ82cGVY"
+  },
+  "niches": [
+    {
+      "icon": "public",
+      "title": "Geopolitics",
+      "description": "Deep-dives into global conflicts and India's strategic positioning."
+    },
+    {
+      "icon": "flag",
+      "title": "Indian Issues",
+      "description": "Unpacking legislative changes and internal socio-economic trends."
+    },
+    {
+      "icon": "memory",
+      "title": "Tech Trends",
+      "description": "The latest in consumer electronics and digital infrastructure."
+    },
+    {
+      "icon": "smart_toy",
+      "title": "AI Future",
+      "description": "Exploring how Artificial Intelligence is reshaping the job market."
+    }
+  ],
+  "insights": {
+    "metrics": [
+      { "label": "Reach", "value": "4.2M", "highlight": false },
+      { "label": "Impressions", "value": "12.8M", "highlight": false },
+      { "label": "Eng. Rate", "value": "8.4%", "highlight": true },
+      { "label": "Profile Visits", "value": "240K", "highlight": false },
+      { "label": "Reel Plays", "value": "6.1M", "highlight": false },
+      { "label": "Story Views", "value": "85K", "highlight": false }
+    ],
+    "demographics": {
+      "topAgeGroup": { "value": "18-24", "detail": "42% of Audience" },
+      "genderRatio": { "value": "70/30", "detail": "Male / Female" },
+      "topCities": [
+        { "name": "Mumbai", "percent": "22%" },
+        { "name": "Delhi", "percent": "18%" },
+        { "name": "Bangalore", "percent": "12%" }
+      ],
+      "topCountries": [
+        { "name": "India", "percent": "85%" },
+        { "name": "USA", "percent": "4%" },
+        { "name": "UAE", "percent": "3%" }
+      ]
+    },
+    "retention": {
+      "headline": "Unrivaled Retention",
+      "body": "Average reel watch time exceeds 45 seconds, beating platform benchmarks by 120%."
+    }
+  },
+  "caseStudies": [
+    {
+      "category": "Tech Giant",
+      "title": "Samsung S24",
+      "description": "Created a 3-part educational series on AI integration in mobile devices. Simplified technical specs into relatable lifestyle benefits for students.",
+      "metric": "2.4M",
+      "metricLabel": "Total Reach"
+    },
+    {
+      "category": "FinTech",
+      "title": "CRED Flash",
+      "description": "A narrative-driven campaign highlighting the importance of credit scores in Indian households, achieving record app installs from a single reel.",
+      "metric": "12K+",
+      "metricLabel": "Conversions"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Dhruv's ability to take dry technical data and turn it into viral gold is unparalleled in the Indian market.",
+      "role": "Marketing Head",
+      "company": "Adobe India",
+      "featured": false
+    },
+    {
+      "quote": "Working with Dhruv is like hiring a creative agency and a distribution powerhouse in one single package.",
+      "role": "Brand Manager",
+      "company": "MamaEarth",
+      "featured": true
+    },
+    {
+      "quote": "The engagement rates we saw on our geopolitical deep-dive campaign exceeded all our expectations.",
+      "role": "Director of PR",
+      "company": "Intel Southeast Asia",
+      "featured": false
+    }
+  ],
+  "contact": {
+    "mediaKitYear": "2024",
+    "mediaKitUrl": "#",
+    "whatsapp": "+91 98765 43210",
+    "email": "collabs@dhruvbatra.in",
+    "socialLinks": [
+      { "label": "Instagram", "href": "#", "icon": "alternate_email" },
+      { "label": "YouTube", "href": "#", "icon": "videocam" },
+      { "label": "Photos", "href": "#", "icon": "photo_camera" }
+    ]
+  },
+  "footer": {
+    "links": [
+      { "label": "Instagram", "href": "#" },
+      { "label": "YouTube", "href": "#" },
+      { "label": "Twitter", "href": "#" },
+      { "label": "LinkedIn", "href": "#" },
+      { "label": "Email Me", "href": "#" }
+    ],
+    "copyright": "© 2024 DHRUV BATRA. ALL RIGHTS RESERVED."
+  }
+}
