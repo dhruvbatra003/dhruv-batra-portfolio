@@ -126,7 +126,7 @@ export default function Home() {
               <img
                 src={c.about.portraitUrl}
                 alt={c.meta.name}
-                className="w-full h-full grayscale contrast-125 object-cover object-top"
+                className="w-full h-full grayscale contrast-125 object-cover object-[center_15%]"
               />
             </div>
           </div>
