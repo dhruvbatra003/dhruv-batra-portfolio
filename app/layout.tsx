@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import './globals.css'
 import content from '../content.json'
+import Cursor from './components/Cursor'
 
 export const metadata: Metadata = {
   title: content.meta.title,
@@ -21,6 +22,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
       </head>
       <body className="font-body-md antialiased overflow-x-hidden">
+        <Cursor />
         {children}
       </body>
     </html>

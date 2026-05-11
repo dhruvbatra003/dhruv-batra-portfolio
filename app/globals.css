@@ -7,6 +7,10 @@ body {
   color: #F1FAEE;
 }
 
+@media (pointer: fine) {
+  *, *::before, *::after { cursor: none !important; }
+}
+
 .marquee-track {
   animation: scroll 40s linear infinite;
 }
