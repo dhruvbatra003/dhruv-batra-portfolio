@@ -205,7 +205,17 @@ export default function Home() {
         </section>
 
         {/* ── Brand Marquee ── */}
-        <section className="py-16 bg-brand-black overflow-hidden">
+        <section className="pt-16 pb-0 bg-brand-black overflow-hidden">
+          <motion.p
+            className="text-center font-label-caps uppercase tracking-[0.25em] text-sm text-brand-offwhite/40 mb-10"
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+          >
+            Past Collaborations
+          </motion.p>
+        <div className="pb-16 overflow-hidden">
           <div className="flex items-center whitespace-nowrap marquee-track">
             {[0, 1, 2, 3].map((i) => (
               <div key={i} className="flex items-center gap-24 pr-24 flex-shrink-0">
@@ -221,6 +231,7 @@ export default function Home() {
               </div>
             ))}
           </div>
+        </div>
         </section>
 
         {/* ── About ── */}
