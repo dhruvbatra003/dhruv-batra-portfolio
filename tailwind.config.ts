@@ -53,7 +53,7 @@ const config: Config = {
         'secondary-fixed-dim': '#c0c9be',
         'tertiary-fixed-dim': '#6fd8cc',
         outline: '#ab8987',
-        'brand-crimson': '#E63946',
+        'brand-crimson': '#ab0511',
         'brand-offwhite': '#F1FAEE',
         'brand-black': '#0A0A0A',
         'brand-card': '#161616',
